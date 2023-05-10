@@ -6,6 +6,12 @@ Welcome to our first code project!! We hope to be able to list our favourite foo
 
 ### Thierry Lacour
 
+- **Favourite food:** 
+- **Favourite colour:** 
+- **Hobbies:** 
 
 ### Viktor Altintas
 
+- **Favourite food:** 
+- **Favourite colour:** 
+- **Hobbies:** 
